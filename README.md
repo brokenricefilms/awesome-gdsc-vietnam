@@ -23,30 +23,27 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
     </tr>
 </table>
 
-## Table of content
-
-- [DSC Chapter in Vietnam](#AWESOME DSC VIETNAM#DSC Chapter in Vietnam)
-    * [Vietnam National University](#AWESOME DSC VIETNAM#DSC Chapter in Vietnam#Vietnam National University)
-    * [University of Greenwich Vietnam](#AWESOME DSC VIETNAM#DSC Chapter in Vietnam#University of Greenwich Vietnam)
-    * [University of Greenwich Vietnam Hanoi](#AWESOME DSC VIETNAM#DSC Chapter in Vietnam#University of Greenwich Vietnam Hanoi)
-    * [Da Nang University of Technology](#AWESOME DSC VIETNAM#DSC Chapter in Vietnam#Da Nang University of Technology)
-    * [Duy Tan University](#AWESOME DSC VIETNAM#DSC Chapter in Vietnam#Duy Tan University)
-    * [Eastern International University](#AWESOME DSC VIETNAM#DSC Chapter in Vietnam#Eastern International University)
-    * [FPT University Danang](#AWESOME DSC VIETNAM#DSC Chapter in Vietnam#FPT University Danang)
-    * [FPT University HCMC](#AWESOME DSC VIETNAM#DSC Chapter in Vietnam#FPT University HCMC)
-    * [Hanoi University of Science & Technology (HUST)](#AWESOME DSC VIETNAM#DSC Chapter in Vietnam#Hanoi University of Science & Technology (HUST))
-    * [Ho Chi Minh City University of Technology](#AWESOME DSC VIETNAM#DSC Chapter in Vietnam#Ho Chi Minh City University of Technology)
-    * [Hoa Sen University](#AWESOME DSC VIETNAM#DSC Chapter in Vietnam#Hoa Sen University)
-    * [Posts and Telecommunications Institute of Technology](#AWESOME DSC VIETNAM#DSC Chapter in Vietnam#Posts and Telecommunications Institute of Technology)
-    * [Ton Duc Thang University](#AWESOME DSC VIETNAM#DSC Chapter in Vietnam#Ton Duc Thang University)
-    * [University of Information Technology VNU-HCM](#AWESOME DSC VIETNAM#DSC Chapter in Vietnam#University of Information Technology VNU-HCM)
-    * [VNU HCM - University of Technology](#AWESOME DSC VIETNAM#DSC Chapter in Vietnam#VNU HCM - University of Technology)
-    * [VNU HCM - University of Science (Thu Duc)](#AWESOME DSC VIETNAM#DSC Chapter in Vietnam#VNU HCM - University of Science (Thu Duc))
-    * [VNU HCM - University of Science (Nguyen Van Cu)](#AWESOME DSC VIETNAM#DSC Chapter in Vietnam#VNU HCM - University of Science (Nguyen Van Cu))
-    * [VNU HCM - University of Industry](#AWESOME DSC VIETNAM#DSC Chapter in Vietnam#VNU HCM - University of Industry)
-- [Contributing workflow](#AWESOME DSC VIETNAM#Contributing workflow)
-- [License](#AWESOME DSC VIETNAM#License)
-
+- [[#DSC Chapter in Vietnam|DSC Chapter in Vietnam]]
+	- [[#Vietnam National University|Vietnam National University]]
+	- [[#University of Greenwich Vietnam|University of Greenwich Vietnam]]
+	- [[#University of Greenwich Vietnam Hanoi|University of Greenwich Vietnam Hanoi]]
+	- [[#Da Nang University of Technology|Da Nang University of Technology]]
+	- [[#Duy Tan University|Duy Tan University]]
+	- [[#Eastern International University|Eastern International University]]
+	- [[#FPT University Danang|FPT University Danang]]
+	- [[#FPT University HCMC|FPT University HCMC]]
+	- [[#Hanoi University of Science & Technology (HUST)|Hanoi University of Science & Technology (HUST)]]
+	- [[#Ho Chi Minh City University of Technology|Ho Chi Minh City University of Technology]]
+	- [[#Hoa Sen University|Hoa Sen University]]
+	- [[#Posts and Telecommunications Institute of Technology|Posts and Telecommunications Institute of Technology]]
+	- [[#Ton Duc Thang University|Ton Duc Thang University]]
+	- [[#University of Information Technology VNU-HCM|University of Information Technology VNU-HCM]]
+	- [[#VNU HCM - University of Technology|VNU HCM - University of Technology]]
+	- [[#VNU HCM - University of Science (Thu Duc)|VNU HCM - University of Science (Thu Duc)]]
+	- [[#VNU HCM - University of Science (Nguyen Van Cu)|VNU HCM - University of Science (Nguyen Van Cu)]]
+	- [[#VNU HCM - University of Industry|VNU HCM - University of Industry]]
+- [[#Contributing workflow|Contributing workflow]]
+- [[#License|License]]
 
 ## DSC Chapter in Vietnam
 
