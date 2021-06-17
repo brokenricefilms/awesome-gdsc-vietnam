@@ -25,6 +25,11 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 
 ## DSC Chapter in Vietnam
 
+### Saigon Technology University
+
+- Github: https://github.com/dsc-stu
+- YouTube: https://www.youtube.com/channel/UCjjkz2HwC-Ud6_o8fdD3isA/
+
 ### Vietnam National University
 
 - Community: https://dsc.community.dev/vietnam-national-university/
