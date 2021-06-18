@@ -90,7 +90,7 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 - DSC-DUT Shooting Profile | Media shooting ft. BM, Marketing and Technical team: https://www.youtube.com/watch?v=hBiVzwGNh1c
 - Khi tech leader nhà dsc sắp thi trắc nghiệm đường lối cách mạng DSC-DuyTan: https://www.facebook.com/dsc.duytan/posts/431655504841866
 - Làm sao để thoát khỏi Ế "bền vững": https://www.facebook.com/dsc.duytan/posts/246685043338914
-- [Smart Garden System API](#Smart Garden System API): https://www.youtube.com/watch?v=eQglBfZroog
+- [Smart Garden System API](#Smart-Garden-System-API): https://www.youtube.com/watch?v=eQglBfZroog
 - 🟩 THE ENTHUSIASTIC GREEN OF EVENT OPERATION 🟩: https://www.facebook.com/dsc.hcmut/posts/372328027515386
 - 🟨 THE DELICATE YELLOW OF MARKETING 🟨: https://www.facebook.com/dsc.hcmut/posts/372327650848757
 - 🟥 THE FIREY RED OF INNOVATION 🟥: https://www.facebook.com/dsc.hcmut/posts/371493917598797
