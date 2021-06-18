@@ -25,25 +25,6 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 
 ## DSC Chapter in Vietnam
 
-### Saigon Technology University
-
-- Github: https://github.com/dsc-stu
-- YouTube: https://www.youtube.com/channel/UCjjkz2HwC-Ud6_o8fdD3isA/
-
-### Vietnam National University
-
-- Community: https://dsc.community.dev/vietnam-national-university/
-- Facebook: https://www.facebook.com/dscvnu/
-
-### University of Greenwich Vietnam
-
-- Community: https://dsc.community.dev/university-of-greenwich-vietnam/
-- Facebook: https://www.facebook.com/dsc.uog/
-
-### University of Greenwich Vietnam Hanoi
-
-- Community: https://dsc.community.dev/university-of-greenwich-vietnam-hanoi/
-
 ### Da Nang University of Technology
 
 - Community: https://dsc.community.dev/da-nang-university-of-technology/
@@ -61,9 +42,12 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 - Facebook Group: https://www.facebook.com/groups/461865691319528
 - Instagram: https://www.instagram.com/dsc.dtu/
 
-### Eastern International University
+### Hoa Sen University
 
-- Community: https://dsc.community.dev/eastern-international-university/
+- Community: https://dsc.community.dev/hoa-sen-university/
+- Facebook: https://www.facebook.com/dsc.hsu
+- YouTube: https://www.youtube.com/channel/UCcbTBRzIfnE-EhixqOWJCtg
+- Github: https://github.com/DSC-HSU
 
 ### FPT University Danang
 
@@ -76,26 +60,6 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 - Community: https://dsc.community.dev/fpt-university-hcmc/
 - Facebook: https://www.facebook.com/dsc.fptu.hcmc
 - Github: https://github.com/DSC-FPTU-HCMC
-
-### Hanoi University of Science & Technology (HUST)
-
-- Community: https://dsc.community.dev/hanoi-university-of-science-technology-hust/
-- Facebook: https://www.facebook.com/dsc.hust.2020/
-
-### Ho Chi Minh City University of Technology
-
-- Community: https://dsc.community.dev/ho-chi-minh-city-university-of-technology/
-
-### Hoa Sen University
-
-- Community: https://dsc.community.dev/hoa-sen-university/
-- Facebook: https://www.facebook.com/dsc.hsu
-- YouTube: https://www.youtube.com/channel/UCcbTBRzIfnE-EhixqOWJCtg
-- Github: https://github.com/DSC-HSU
-
-### Posts and Telecommunications Institute of Technology
-
-- Community: https://dsc.community.dev/posts-and-telecommunications-institute-of-technology/
 
 ### Ton Duc Thang University
 
@@ -115,6 +79,26 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 - Facebook: https://www.facebook.com/dsc.hcmut
 - Github: https://github.com/dsc-hcmut
 
+### Saigon Technology University
+
+- Github: https://github.com/dsc-stu
+- YouTube: https://www.youtube.com/channel/UCjjkz2HwC-Ud6_o8fdD3isA/
+
+### Vietnam National University
+
+- Community: https://dsc.community.dev/vietnam-national-university/
+- Facebook: https://www.facebook.com/dscvnu/
+
+### University of Greenwich Vietnam
+
+- Community: https://dsc.community.dev/university-of-greenwich-vietnam/
+- Facebook: https://www.facebook.com/dsc.uog/
+
+### Hanoi University of Science & Technology (HUST)
+
+- Community: https://dsc.community.dev/hanoi-university-of-science-technology-hust/
+- Facebook: https://www.facebook.com/dsc.hust.2020/
+
 ### VNU HCM - University of Science (Thu Duc)
 
 - Community: https://dsc.community.dev/vnu-hcm-university-of-science-thu-duc/
@@ -126,6 +110,23 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 ### VNU HCM - University of Industry
 
 - Community: https://dsc.community.dev/vnu-hcm-university-of-industry/
+
+### University of Greenwich Vietnam Hanoi
+
+- Community: https://dsc.community.dev/university-of-greenwich-vietnam-hanoi/
+
+### Posts and Telecommunications Institute of Technology
+
+- Community: https://dsc.community.dev/posts-and-telecommunications-institute-of-technology/
+
+### Ho Chi Minh City University of Technology
+
+- Community: https://dsc.community.dev/ho-chi-minh-city-university-of-technology/
+
+### Eastern International University
+
+- Community: https://dsc.community.dev/eastern-international-university/
+
 
 ## Contributing workflow
 
