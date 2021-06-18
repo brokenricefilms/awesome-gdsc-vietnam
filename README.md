@@ -25,6 +25,33 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
     </tr>
 </table>
 
+
+## Table of content
+
+* [AWESOME DSC VIETNAM](#awesome-dsc-vietnam)
+   * [DSC Chapter in Vietnam](#dsc-chapter-in-vietnam)
+      * [Da Nang University of Technology](#da-nang-university-of-technology)
+      * [Duy Tan University](#duy-tan-university)
+      * [Saigon Technology University](#saigon-technology-university)
+      * [Hoa Sen University](#hoa-sen-university)
+      * [FPT University Danang](#fpt-university-danang)
+      * [FPT University HCMC](#fpt-university-hcmc)
+      * [Ton Duc Thang University](#ton-duc-thang-university)
+      * [University of Information Technology VNU-HCM](#university-of-information-technology-vnu-hcm)
+      * [VNU HCM - University of Technology](#vnu-hcm---university-of-technology)
+      * [Vietnam National University](#vietnam-national-university)
+      * [University of Greenwich Vietnam](#university-of-greenwich-vietnam)
+      * [Hanoi University of Science &amp; Technology (HUST)](#hanoi-university-of-science--technology-hust)
+      * [VNU HCM - University of Science (Thu Duc)](#vnu-hcm---university-of-science-thu-duc)
+      * [VNU HCM - University of Science (Nguyen Van Cu)](#vnu-hcm---university-of-science-nguyen-van-cu)
+      * [VNU HCM - University of Industry](#vnu-hcm---university-of-industry)
+      * [University of Greenwich Vietnam Hanoi](#university-of-greenwich-vietnam-hanoi)
+      * [Posts and Telecommunications Institute of Technology](#posts-and-telecommunications-institute-of-technology)
+      * [Ho Chi Minh City University of Technology](#ho-chi-minh-city-university-of-technology)
+      * [Eastern International University](#eastern-international-university)
+   * [Contributing workflow](#contributing-workflow)
+   * [License](#license)
+
 ## DSC Chapter in Vietnam
 
 ### Da Nang University of Technology
