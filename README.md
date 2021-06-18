@@ -97,7 +97,6 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 - 🟥 THE FIREY RED OF INNOVATION 🟥: https://www.facebook.com/dsc.hcmut/posts/371493917598797
 - 🟦 THE WISE BLUE OF DEVELOPMENT 🟦: https://www.facebook.com/dsc.hcmut/posts/371487384266117
 - 🌟MEET THE LEAD: NGUYEN THANH NHAN🌟: https://www.facebook.com/dsc.hcmut/posts/369917667756422
--
 
 ## Project DSC in Vietnam
 
