@@ -83,6 +83,7 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 
 - Github: https://github.com/dsc-stu
 - YouTube: https://www.youtube.com/channel/UCjjkz2HwC-Ud6_o8fdD3isA/
+- Discord: https://discord.gg/p92uD3F4He
 
 ### Vietnam National University
 
