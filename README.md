@@ -117,17 +117,17 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 ### Bookban
 
 - About(vietnamese): https://www.facebook.com/dsc.fptudn/posts/181046613666917
-- DSC chapter: [FPT University Danang](#FPT University Danang)
+- DSC chapter: [FPT University Danang](#FPT-University-Danang)
 
 ### "Contact me"- Ứng dụng giải quyết việc làm “ONLINE”
 
 - About(vietnamese): https://www.facebook.com/dsc.fptudn/posts/180360403735538
-- DSC chapter: [FPT University Danang](#FPT University Danang)
+- DSC chapter: [FPT University Danang](#FPT-University-Danang)
 
 ### REBO - Nền tảng thiết kế bài giảng trực tuyến lý tưởng dành cho giáo viên và học sinh
 
 - About(vietnamese): https://www.facebook.com/dsc.fptudn/posts/179671193804459
-- DSC chapter: [FPT University Danang](#FPT University Danang)
+- DSC chapter: [FPT University Danang](#FPT-University-Danang)
 
 ### The Shareapy mobile app
 
