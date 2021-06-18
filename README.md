@@ -42,6 +42,13 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 - Facebook Group: https://www.facebook.com/groups/461865691319528
 - Instagram: https://www.instagram.com/dsc.dtu/
 
+### Saigon Technology University
+
+- Facebook: https://www.facebook.com/dscstu/
+- Github: https://github.com/dsc-stu
+- YouTube: https://www.youtube.com/channel/UCjjkz2HwC-Ud6_o8fdD3isA/
+- Discord: https://discord.gg/p92uD3F4He
+
 ### Hoa Sen University
 
 - Community: https://dsc.community.dev/hoa-sen-university/
@@ -78,12 +85,6 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 - Community: https://dsc.community.dev/vnu-hcm-university-of-technology/
 - Facebook: https://www.facebook.com/dsc.hcmut
 - Github: https://github.com/dsc-hcmut
-
-### Saigon Technology University
-
-- Github: https://github.com/dsc-stu
-- YouTube: https://www.youtube.com/channel/UCjjkz2HwC-Ud6_o8fdD3isA/
-- Discord: https://discord.gg/p92uD3F4He
 
 ### Vietnam National University
 
