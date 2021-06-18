@@ -10,9 +10,9 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
         <a href="https://github.com/dsc-stu/dsc-stu/blob/main/clubMission.md"><p>🏆 Club Mission</p></a>
         <a href="https://github.com/orgs/dsc-stu/people"><p>🧑‍🤝‍🧑 Members</p></a>
         <p>📝 Meeting Notes</p>
-        <a href="https://www.facebook.com/dscstu/"><p>📰Facebook</p></a>
-        <a href="https://www.youtube.com/channel/UCjjkz2HwC-Ud6_o8fdD3isA/"><p>▶️Youtube</p></a>
-        <a href="https://discord.gg/p92uD3F4He"><p>💬Chat</p></a>
+        <a href="https://www.facebook.com/dscstu/"><p>📰 Facebook</p></a>
+        <a href="https://www.youtube.com/channel/UCjjkz2HwC-Ud6_o8fdD3isA/"><p>▶️ Youtube</p></a>
+        <a href="https://discord.gg/p92uD3F4He"><p>💬 Chat</p></a>
         </td>
         <td>
         <a href="https://github.com/orgs/dsc-stu/projects"><p>🎒 Tasks</p></a>
@@ -50,6 +50,18 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
   + [Eastern International University](#eastern-international-university)
 * [Contributing workflow](#contributing-workflow)
 * [License](#license)
+
+## Resource for DSC
+
+- DSC docs:
+    * https://developers.google.com/community/dsc/leads
+    * https://msaaddev.github.io/DSC-docs-live/
+- Free resources for GDSC Leads: https://docs.google.com/document/d/1D4tJDb-kWRqPMreBfgbMkUc9eHwM4bFeocFvWs8rJf8/
+- Open-source illustration: https://2.flexiple.com/scale/all-illustrations
+- Github student pack: https://education.github.com/pack
+- Awesome list: https://github.com/topics/awesome-list
+
+## Project DSC in Vietnam
 
 ## DSC Chapter in Vietnam
 
