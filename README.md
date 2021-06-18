@@ -74,8 +74,7 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 
 ### Posts from DSC chapter in Vietnam
 
-- Bộ mấy làm việc của nhà DSC-DUT
--ttps://www.facebook.com/dscdut/posts/551884899550271
+- Bộ mấy làm việc của nhà DSC-DUT: https://www.facebook.com/dscdut/posts/551884899550271
 - 4 lầm tưởng tai hại khiến bạn bỏ lỡ cơ hội trở thành thành viên của [DSC-DUT](#da-nang-university-of-technology)!: https://www.facebook.com/dscdut/posts/493292708742824
 - FIELD TRIP - LÍ DO TO BỰ BẠN NÊN THAM GIA DSC-DUT: https://www.facebook.com/dscdut/posts/492592898812805
 - LỢI ÍCH TUYỆT VỜI KHI THAM GIA DSC-DUT, BẠN ĐÃ BIẾT HAY CHƯA?: https://www.facebook.com/dscdut/posts/492103838861711
