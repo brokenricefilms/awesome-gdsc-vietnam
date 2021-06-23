@@ -68,6 +68,7 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
     * https://developers.google.com/community/dsc/leads
     * https://msaaddev.github.io/DSC-docs-live/
 - Free resources for GDSC Leads: https://docs.google.com/document/d/1D4tJDb-kWRqPMreBfgbMkUc9eHwM4bFeocFvWs8rJf8/
+- Virtual DevSpace - Organizer Guide: <goo.gle/virtual-devspace>
 - Open-source illustration: https://2.flexiple.com/scale/all-illustrations
 - Github student pack: https://education.github.com/pack
 - Awesome list: https://github.com/topics/awesome-list
