@@ -135,7 +135,7 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 ### The Shareapy mobile app
 
 - About: Vo Ngoc Khanh Linh, Tran Lam Bao Khang, Nguyen Dang Huy, and Nguyen Thanh Nhan built Shareapy: a digitized support group app created with Android that helps bring people together who share similar problems regardless of their age, gender, religion, financial status, etc. After conducting an extremely rigorous user testing phase, this team had the chance to see all that TensorFlow and Firebase could do.
-- Video: https://www.youtube.com/watch?v=_SdjFp6eWZM
+- Video: https://www.youtube.com/watch?v=63RTBxRyFX8&t=3557s
 - DSC chapter: [Ho Chi Minh City University of Technology](#ho-chi-minh-city-university-of-technology)
 
 ## DSC Chapter in Vietnam
