@@ -144,6 +144,7 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 
 - Community: https://dsc.community.dev/da-nang-university-of-technology/
 - Website: https://google.dscdut.com/
+- Github: https://github.com/dscdut
 - Facebook: https://www.facebook.com/dscdut
 - YouTube: https://www.youtube.com/channel/UCh5G4Fgl_WcOBB2LF73x3Ww/featured
 - Linkedin: https://www.linkedin.com/company/dscdut/
