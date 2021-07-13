@@ -1,4 +1,4 @@
-![https://raw.githubusercontent.com/dsc-stu/resource/main/img/DSC-Saigon-Technology-University-colored-horizontal.png](https://raw.githubusercontent.com/dsc-stu/resource/main/img/DSC-Saigon-Technology-University-colored-horizontal.png)
+![banner](./img/banner.png)
 
 # AWESOME DSC VIETNAM
 
@@ -12,7 +12,7 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
         <p>📝 Meeting Notes</p>
         <a href="https://www.facebook.com/dscstu/"><p>📰 Facebook</p></a>
         <a href="https://www.youtube.com/channel/UCjjkz2HwC-Ud6_o8fdD3isA/"><p>▶️ Youtube</p></a>
-        <a href="https://discord.gg/p92uD3F4He"><p>💬Chat</p></a>
+        <a href="https://discord.gg/p92uD3F4He"><p>💬 Chat</p></a>
         </td>
         <td>
         <a href="https://github.com/orgs/dsc-stu/projects"><p>🎒 Tasks</p></a>
