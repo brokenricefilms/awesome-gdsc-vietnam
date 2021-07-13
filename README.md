@@ -168,7 +168,7 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 ### Hoa Sen University
 
 - Community: https://dsc.community.dev/hoa-sen-university/
-- Facebook: https://www.facebook.com/dsc.hsu
+- Facebook: https://www.facebook.com/gdsc.hsu/
 - YouTube: https://www.youtube.com/channel/UCcbTBRzIfnE-EhixqOWJCtg
 - Github: https://github.com/DSC-HSU
 
