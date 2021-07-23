@@ -194,7 +194,6 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 
 - Community: https://dsc.community.dev/university-of-information-technology-vnu-hcm/
 - Facebook: https://www.facebook.com/dsc.uit/
-- Github: https://github.com/DSC-UIT-khi
 
 ### VNU HCM - University of Technology
 
