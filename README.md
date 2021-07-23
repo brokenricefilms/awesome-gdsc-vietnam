@@ -26,13 +26,15 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
     </tr>
 </table>
 
-
 ## Table of content
 
 * [Table of content](#table-of-content)
 * [Resource for DSC](#resource-for-dsc)
   + [Posts from DSC chapter in Vietnam](#posts-from-dsc-chapter-in-vietnam)
 * [Project DSC in Vietnam](#project-dsc-in-vietnam)
+  + [beebee.travel](#beebeetravel)
+  + [uniGO](#unigo)
+  + [Google DSC Loading spinner](#google-dsc-loading-spinner)
   + [Smart Garden System API](#smart-garden-system-api)
   + [URL shortener](#url-shortener)
   + [Bookban](#bookban)
@@ -102,6 +104,34 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 - 🌟MEET THE LEAD: NGUYEN THANH NHAN🌟: https://www.facebook.com/dsc.hcmut/posts/369917667756422
 
 ## Project DSC in Vietnam
+
+### beebee.travel
+
+<img src="./img/beebee_travel.png" alt="" width="50%">
+
+- About(vietnamese website): <https://beebee.travel/>
+- Try app: <https://app.beebee.travel/>
+- DSC chapter: [Da Nang University of Technology](#da-nang-university-of-technology)
+
+### uniGO
+
+<img src="./img/uniGo.png" alt="" width="50%">
+
+- About: Danang University of Technology virtual interactive map, Designed by Developer Student Clubs with basic algorithms and popular technology platforms, uniGO makes it easier for users to locate classrooms, buildings, functional departments… as well as to look up for detailed information on these locations.
+- Website: <https://unigo.pro/>
+- DSC chapter: [Da Nang University of Technology](#da-nang-university-of-technology)
+
+### Google DSC Loading spinner
+
+<div>
+<img src="./img/googler-loader.gif" alt="" width="25%">
+&emsp;
+<img src="./img/dsc-loader.gif" alt="" width="25%">
+</div>
+
+- About: A Loading spinner for the Google Developer student clubs.
+- Source Code: <https://github.com/dscdut/loading.vndsc.com>
+- DSC chapter: [Da Nang University of Technology](#da-nang-university-of-technology)
 
 ### Smart Garden System API
 
