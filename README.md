@@ -105,6 +105,13 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 
 ## Project DSC in Vietnam
 
+### ProVo
+
+- About: ProVo is an ecosystem providing a IELTS Writing Support service and an mobile app with a collective database of Advanced Vocab and Synonyms.
+- Website: <https://provo.dscdut.com/>
+- Download app (Android): <https://play.google.com/store/apps/details?id=com.huy3999.provo>
+- DSC chapter: [Da Nang University of Technology](#da-nang-university-of-technology)
+
 ### beebee.travel
 
 <img src="./img/beebee_travel.png" alt="" width="50%">
