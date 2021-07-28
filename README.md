@@ -268,6 +268,7 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 ### VNU HCM - University of Science (Nguyen Van Cu)
 
 - Community: https://dsc.community.dev/vnu-hcm-university-of-science-nguyen-van-cu/
+- Facebook: https://www.facebook.com/dsc.hcmus
 
 ### VNU HCM - University of Industry
 
