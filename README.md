@@ -256,6 +256,12 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 ### VNU HCM - University of Science (Thu Duc)
 
 - Community: https://dsc.community.dev/vnu-hcm-university-of-science-thu-duc/
+- Facebook: https://www.facebook.com/dsc.hcmus
+
+### VNU HCM - University of Science (Nguyen Van Cu)
+
+- Community: https://dsc.community.dev/vnu-hcm-university-of-science-nguyen-van-cu/
+- Facebook: https://www.facebook.com/dsc.hcmus
 
 ### VNU HCM - International University
 
@@ -264,11 +270,6 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 ### VNUK Institute for Research and Executive Education, the University of Danang
 
 - Facebook: https://www.facebook.com/dscvnuk/
-
-### VNU HCM - University of Science (Nguyen Van Cu)
-
-- Community: https://dsc.community.dev/vnu-hcm-university-of-science-nguyen-van-cu/
-- Facebook: https://www.facebook.com/dsc.hcmus
 
 ### VNU HCM - University of Industry
 
