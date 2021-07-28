@@ -191,7 +191,7 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 
 - Community: https://dsc.community.dev/duy-tan-university/
 - Website: https://dtudsc.web.app/
-- Facebook: https://www.facebook.com/dsc.duytan/
+- Facebook: https://www.facebook.com/gdsc.duytan/
 - Facebook Group: https://www.facebook.com/groups/461865691319528
 - Instagram: https://www.instagram.com/dsc.dtu/
 
