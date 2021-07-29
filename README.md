@@ -64,6 +64,7 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
   + [Posts and Telecommunications Institute of Technology](#posts-and-telecommunications-institute-of-technology)
   + [Ho Chi Minh City University of Technology](#ho-chi-minh-city-university-of-technology)
   + [Eastern International University](#eastern-international-university)
+  + [Foreign Trade University](#foreign-trade-university)
 * [Contributing workflow](#contributing-workflow)
 * [License](#license)
 
@@ -294,6 +295,9 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 
 - Community: https://dsc.community.dev/eastern-international-university/
 
+### Foreign Trade University
+
+- Facebook: https://www.facebook.com/dsc.ftu2/
 
 ## Contributing workflow
 
