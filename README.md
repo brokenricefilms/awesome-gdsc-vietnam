@@ -65,6 +65,12 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
   + [Ho Chi Minh City University of Technology](#ho-chi-minh-city-university-of-technology)
   + [Eastern International University](#eastern-international-university)
   + [Foreign Trade University](#foreign-trade-university)
+  + [HCMC University of Technology and Education](#hcmc-university-of-technology-and-education)
+  + [Hanoi University](#hanoi-university)
+  + [Hanoi University of Mining and Geology](#hanoi-university-of-mining-and-geology)
+  + [Industrial University of Ho Chi Minh City](#industrial-university-of-ho-chi-minh-city)
+  + [Vietnam Academy of Cryptography Techniques](#vietnam-academy-of-cryptography-techniques)
+  + [University of Greenwich Vietnam (Can Tho)](#university-of-greenwich-vietnam-can-tho)
 * [Contributing workflow](#contributing-workflow)
 * [License](#license)
 
@@ -298,6 +304,40 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 ### Foreign Trade University
 
 - Facebook: https://www.facebook.com/dsc.ftu2/
+
+### HCMC University of Technology and Education
+
+- Facebook: https://www.facebook.com/gdsc.hcmute
+- Github: https://github.com/DSC-HCMUTE
+- Email: dsc.hcmute@gmail.com
+
+### Hanoi University
+
+- Facebook: https://www.facebook.com/hanugdsc
+- Email: hanugdsc@gmail.com
+
+### Hanoi University of Mining and Geology
+
+- Facebook: https://www.facebook.com/gdsc.humg
+- Email: dsc.humg@gmail.com
+
+### Industrial University of Ho Chi Minh City
+
+- Facebook: https://www.facebook.com/iuh.gdsc
+- Email: iuh.gdsc@gmail.com
+- Twitter: https://twitter.com/iuhgdsc
+- Github: https://github.com/iuhgdsc
+- Instagram: https://www.instagram.com/iuh.gdsc/
+- Youtube: https://www.youtube.com/channel/UCeDvhkh14Y1QtNRfo5nhRbg
+
+### Vietnam Academy of Cryptography Techniques
+
+- Facebook: https://www.facebook.com/dsc.kma
+- Email: dsckma@gmail.com
+
+### University of Greenwich Vietnam (Can Tho)
+
+- Facebook: https://www.facebook.com/profile.php?id=100070791010056
 
 ## Contributing workflow
 
