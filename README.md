@@ -262,6 +262,9 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 
 - Community: https://dsc.community.dev/hanoi-university-of-science-technology-hust/
 - Facebook: https://www.facebook.com/dsc.hust.2020/
+- Phone: +84 83 837 5899
+- Website: http://www.dsc-hust.club/
+- Email: dsc.hust.2020@gmail.com
 
 ### VNU HCM - University of Science (Thu Duc)
 
