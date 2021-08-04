@@ -342,6 +342,11 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 
 - Facebook: https://www.facebook.com/profile.php?id=100070791010056
 
+### University of Economics and Law
+
+- Facebook: https://www.facebook.com/gdsc.uel
+- Email: gdsc.uel@gmail.com
+
 ## Contributing workflow
 
 Here’s how we suggest you go about proposing a change to this project:
