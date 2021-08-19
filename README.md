@@ -204,6 +204,7 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 
 ### Saigon Technology University
 
+- Community: https://gdsc.community.dev/saigon-technology-university/
 - Facebook: https://www.facebook.com/dscstu/
 - Github: https://github.com/dsc-stu
 - YouTube: https://www.youtube.com/channel/UCjjkz2HwC-Ud6_o8fdD3isA/
