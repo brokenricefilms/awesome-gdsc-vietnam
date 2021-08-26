@@ -330,6 +330,7 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 - Github: https://github.com/iuhgdsc
 - Instagram: https://www.instagram.com/iuh.gdsc/
 - Youtube: https://www.youtube.com/channel/UCeDvhkh14Y1QtNRfo5nhRbg
+- Community: https://iuhgdsc.page.link/community
 
 ### Vietnam Academy of Cryptography Techniques
 
