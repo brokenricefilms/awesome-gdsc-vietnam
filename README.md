@@ -69,7 +69,6 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
   + [Vietnam Academy of Cryptography Techniques](#vietnam-academy-of-cryptography-techniques)
   + [University of Greenwich Vietnam (Can Tho)](#university-of-greenwich-vietnam-can-tho)
 * [Contributing workflow](#contributing-workflow)
-* [License](#license)
 
 ## Resource for DSC
 
