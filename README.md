@@ -19,7 +19,6 @@
 * [DSC Chapter in Vietnam](#dsc-chapter-in-vietnam)
   + [Da Nang University of Technology](#da-nang-university-of-technology)
   + [Duy Tan University](#duy-tan-university)
-  + [Saigon Technology University](#saigon-technology-university)
   + [Hoa Sen University](#hoa-sen-university)
   + [FPT University Danang](#fpt-university-danang)
   + [FPT University HCMC](#fpt-university-hcmc)
@@ -177,14 +176,6 @@
 - Facebook: https://www.facebook.com/gdsc.duytan/
 - Facebook Group: https://www.facebook.com/groups/461865691319528
 - Instagram: https://www.instagram.com/dsc.dtu/
-
-### Saigon Technology University
-
-- Community: https://gdsc.community.dev/saigon-technology-university/
-- Facebook: https://www.facebook.com/dscstu/
-- Github: https://github.com/dsc-stu
-- YouTube: https://www.youtube.com/channel/UCjjkz2HwC-Ud6_o8fdD3isA/
-- Discord: https://discord.gg/p92uD3F4He
 
 ### Hoa Sen University
 
