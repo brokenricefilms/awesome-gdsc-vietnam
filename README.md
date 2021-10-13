@@ -52,7 +52,6 @@
     * https://developers.google.com/community/dsc/leads
     * https://msaaddev.github.io/DSC-docs-live/
 - Design:
-    * GDSC brand guide: https://goo.gle/gdsc-brand-guide
     * DSC STU brand resources: https://www.figma.com/file/DV5P2siVlzER4ziHju2qNg/Brand-resources-Google-DSC-STU
 - Free resources for GDSC Leads: https://docs.google.com/document/d/1D4tJDb-kWRqPMreBfgbMkUc9eHwM4bFeocFvWs8rJf8/
 - Virtual DevSpace - Organizer Guide: https://goo.gle/virtual-devspace
