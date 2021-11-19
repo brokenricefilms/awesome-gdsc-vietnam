@@ -20,6 +20,7 @@
   + [Da Nang University of Technology](#da-nang-university-of-technology)
   + [Duy Tan University](#duy-tan-university)
   + [Hoa Sen University](#hoa-sen-university)
+  + [Saigon University](#saigon-university)
   + [FPT University Danang](#fpt-university-danang)
   + [FPT University HCMC](#fpt-university-hcmc)
   + [Ton Duc Thang University](#ton-duc-thang-university)
@@ -182,6 +183,10 @@
 - Facebook: https://www.facebook.com/gdsc.hsu/
 - YouTube: https://www.youtube.com/channel/UCcbTBRzIfnE-EhixqOWJCtg
 - Github: https://github.com/DSC-HSU
+
+### Saigon University
+- Community: https://gdsc.community.dev/sai-gon-university-sgu/
+- Facebook: https://www.facebook.com/sgudsc/
 
 ### FPT University Danang
 
