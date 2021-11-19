@@ -1,58 +1,61 @@
 # AWESOME DSC VIETNAM
 
-## Table of content
+**↓↓Table of Contents↓↓**
 
-* [Table of content](#table-of-content)
-* [Resource for DSC](#resource-for-dsc)
-  + [Posts from DSC chapter in Vietnam](#posts-from-dsc-chapter-in-vietnam)
-* [Project DSC in Vietnam](#project-dsc-in-vietnam)
-  + [ProVo](#provo)
-  + [beebee.travel](#beebeetravel)
-  + [uniGO](#unigo)
-  + [Google DSC Loading spinner](#google-dsc-loading-spinner)
-  + [Smart Garden System API](#smart-garden-system-api)
-  + [URL shortener](#url-shortener)
-  + [Bookban](#bookban)
-  + ["Contact me"- Ứng dụng giải quyết việc làm “ONLINE”](#contact-me--ứng-dụng-giải-quyết-việc-làm-online)
-  + [REBO - Nền tảng thiết kế bài giảng trực tuyến lý tưởng dành cho giáo viên và học sinh](#rebo---nền-tảng-thiết-kế-bài-giảng-trực-tuyến-lý-tưởng-dành-cho-giáo-viên-và-học-sinh)
-  + [The Shareapy mobile app](#the-shareapy-mobile-app)
-* [DSC Chapter in Vietnam](#dsc-chapter-in-vietnam)
-  + [Da Nang University of Technology](#da-nang-university-of-technology)
-  + [Duy Tan University](#duy-tan-university)
-  + [Hoa Sen University](#hoa-sen-university)
-  + [FPT University Danang](#fpt-university-danang)
-  + [FPT University HCMC](#fpt-university-hcmc)
-  + [Ton Duc Thang University](#ton-duc-thang-university)
-  + [University of Information Technology VNU-HCM](#university-of-information-technology-vnu-hcm)
-  + [VNU HCM - University of Technology](#vnu-hcm---university-of-technology)
-  + [Vietnam National University](#vietnam-national-university)
-  + [University of Greenwich Vietnam](#university-of-greenwich-vietnam)
-  + [Hanoi University of Science &amp; Technology (HUST)](#hanoi-university-of-science--technology-hust)
-  + [VNU HCM - University of Science (Thu Duc)](#vnu-hcm---university-of-science-thu-duc)
-  + [VNU HCM - University of Science (Nguyen Van Cu)](#vnu-hcm---university-of-science-nguyen-van-cu)
-  + [VNU HCM - International University](#vnu-hcm---international-university)
-  + [VNUK Institute for Research and Executive Education, the University of Danang](#vnuk-institute-for-research-and-executive-education-the-university-of-danang)
-  + [VNU HCM - University of Industry](#vnu-hcm---university-of-industry)
-  + [University of Greenwich Vietnam Hanoi](#university-of-greenwich-vietnam-hanoi)
-  + [Posts and Telecommunications Institute of Technology](#posts-and-telecommunications-institute-of-technology)
-  + [Ho Chi Minh City University of Technology](#ho-chi-minh-city-university-of-technology)
-  + [Eastern International University](#eastern-international-university)
-  + [Foreign Trade University](#foreign-trade-university)
-  + [HCMC University of Technology and Education](#hcmc-university-of-technology-and-education)
-  + [Hanoi University](#hanoi-university)
-  + [Hanoi University of Mining and Geology](#hanoi-university-of-mining-and-geology)
-  + [Industrial University of Ho Chi Minh City](#industrial-university-of-ho-chi-minh-city)
-  + [Vietnam Academy of Cryptography Techniques](#vietnam-academy-of-cryptography-techniques)
-  + [University of Greenwich Vietnam (Can Tho)](#university-of-greenwich-vietnam-can-tho)
-* [Contributing workflow](#contributing-workflow)
+- [AWESOME DSC VIETNAM](#awesome-dsc-vietnam)
+  - [Resource for DSC](#resource-for-dsc)
+    - [Posts from DSC chapter in Vietnam](#posts-from-dsc-chapter-in-vietnam)
+  - [Project DSC in Vietnam](#project-dsc-in-vietnam)
+    - [ProVo](#provo)
+    - [beebee.travel](#beebeetravel)
+    - [uniGO](#unigo)
+    - [Google DSC Loading spinner](#google-dsc-loading-spinner)
+    - [Smart Garden System API](#smart-garden-system-api)
+    - [URL shortener](#url-shortener)
+    - [Bookban](#bookban)
+    - ["Contact me"- Ứng dụng giải quyết việc làm “ONLINE”](#contact-me--ứng-dụng-giải-quyết-việc-làm-online)
+    - [REBO - Nền tảng thiết kế bài giảng trực tuyến lý tưởng dành cho giáo viên và học sinh](#rebo---nền-tảng-thiết-kế-bài-giảng-trực-tuyến-lý-tưởng-dành-cho-giáo-viên-và-học-sinh)
+    - [The Shareapy mobile app](#the-shareapy-mobile-app)
+  - [DSC Chapter in Vietnam](#dsc-chapter-in-vietnam)
+    - [Da Nang University of Technology](#da-nang-university-of-technology)
+    - [Duy Tan University](#duy-tan-university)
+    - [Hoa Sen University](#hoa-sen-university)
+    - [FPT University Danang](#fpt-university-danang)
+    - [FPT University HCMC](#fpt-university-hcmc)
+    - [Ton Duc Thang University](#ton-duc-thang-university)
+    - [University of Information Technology VNU-HCM](#university-of-information-technology-vnu-hcm)
+    - [VNU HCM - University of Technology](#vnu-hcm---university-of-technology)
+    - [Vietnam National University](#vietnam-national-university)
+    - [University of Greenwich Vietnam](#university-of-greenwich-vietnam)
+    - [Hanoi University of Science &amp; Technology (HUST)](#hanoi-university-of-science--technology-hust)
+    - [VNU HCM - University of Science (Thu Duc)](#vnu-hcm---university-of-science-thu-duc)
+    - [VNU HCM - University of Science (Nguyen Van Cu)](#vnu-hcm---university-of-science-nguyen-van-cu)
+    - [VNU HCM - International University](#vnu-hcm---international-university)
+    - [VNUK Institute for Research and Executive Education, the University of Danang](#vnuk-institute-for-research-and-executive-education-the-university-of-danang)
+    - [VNU HCM - University of Industry](#vnu-hcm---university-of-industry)
+    - [University of Greenwich Vietnam Hanoi](#university-of-greenwich-vietnam-hanoi)
+    - [Posts and Telecommunications Institute of Technology](#posts-and-telecommunications-institute-of-technology)
+    - [Ho Chi Minh City University of Technology](#ho-chi-minh-city-university-of-technology)
+    - [Eastern International University](#eastern-international-university)
+    - [Foreign Trade University](#foreign-trade-university)
+    - [HCMC University of Technology and Education](#hcmc-university-of-technology-and-education)
+    - [Hanoi University](#hanoi-university)
+    - [Hanoi University of Mining and Geology](#hanoi-university-of-mining-and-geology)
+    - [Industrial University of Ho Chi Minh City](#industrial-university-of-ho-chi-minh-city)
+    - [Vietnam Academy of Cryptography Techniques](#vietnam-academy-of-cryptography-techniques)
+    - [University of Greenwich Vietnam (Can Tho)](#university-of-greenwich-vietnam-can-tho)
+    - [University of Economics and Law](#university-of-economics-and-law)
+  - [Contributing workflow](#contributing-workflow)
+
+---
 
 ## Resource for DSC
 
 - DSC docs:
-    * https://developers.google.com/community/dsc/leads
-    * https://msaaddev.github.io/DSC-docs-live/
+  - https://developers.google.com/community/dsc/leads
+  - https://msaaddev.github.io/DSC-docs-live/
 - Design:
-    * DSC STU brand resources: https://www.figma.com/file/DV5P2siVlzER4ziHju2qNg/Brand-resources-Google-DSC-STU
+  - DSC STU brand resources: https://www.figma.com/file/DV5P2siVlzER4ziHju2qNg/Brand-resources-Google-DSC-STU
 - Free resources for GDSC Leads: https://docs.google.com/document/d/1D4tJDb-kWRqPMreBfgbMkUc9eHwM4bFeocFvWs8rJf8/
 - Virtual DevSpace - Organizer Guide: https://goo.gle/virtual-devspace
 - Open-source illustration: https://2.flexiple.com/scale/all-illustrations
@@ -65,7 +68,7 @@
 - 4 lầm tưởng tai hại khiến bạn bỏ lỡ cơ hội trở thành thành viên của [DSC-DUT](#da-nang-university-of-technology)!: https://www.facebook.com/dscdut/posts/493292708742824
 - FIELD TRIP - LÍ DO TO BỰ BẠN NÊN THAM GIA DSC-DUT: https://www.facebook.com/dscdut/posts/492592898812805
 - LỢI ÍCH TUYỆT VỜI KHI THAM GIA DSC-DUT, BẠN ĐÃ BIẾT HAY CHƯA?: https://www.facebook.com/dscdut/posts/492103838861711
-- 3 ĐIỀU CẤM KỴ CHO GIAO THỪA, MỒNG MỘT TẾT CỦA DÂN IT DSC_-DUT: https://www.facebook.com/dscdut/posts/477732203632208
+- 3 ĐIỀU CẤM KỴ CHO GIAO THỪA, MỒNG MỘT TẾT CỦA DÂN IT DSC\_-DUT: https://www.facebook.com/dscdut/posts/477732203632208
 - DSC-DTU: https://www.facebook.com/dscdut/posts/413517370053692
 - DSC-DTU: https://www.facebook.com/dscdut/posts/374882233917206
 - Có những thứ giá trị nhưng không hề lấp lánh DSC-DTU: https://www.facebook.com/dscdut/posts/295722405166523
