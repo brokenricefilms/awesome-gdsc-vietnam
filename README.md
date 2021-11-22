@@ -50,10 +50,10 @@
 ## Resource for DSC
 
 - DSC docs:
-    * https://developers.google.com/community/dsc/leads
-    * https://msaaddev.github.io/DSC-docs-live/
+  - https://developers.google.com/community/dsc/leads
+  - https://msaaddev.github.io/DSC-docs-live/
 - Design:
-    * DSC STU brand resources: https://www.figma.com/file/DV5P2siVlzER4ziHju2qNg/Brand-resources-Google-DSC-STU
+  - DSC STU brand resources: https://www.figma.com/file/DV5P2siVlzER4ziHju2qNg/Brand-resources-Google-DSC-STU
 - Free resources for GDSC Leads: https://docs.google.com/document/d/1D4tJDb-kWRqPMreBfgbMkUc9eHwM4bFeocFvWs8rJf8/
 - Virtual DevSpace - Organizer Guide: https://goo.gle/virtual-devspace
 - Open-source illustration: https://2.flexiple.com/scale/all-illustrations
@@ -66,7 +66,7 @@
 - 4 lầm tưởng tai hại khiến bạn bỏ lỡ cơ hội trở thành thành viên của [DSC-DUT](#da-nang-university-of-technology)!: https://www.facebook.com/dscdut/posts/493292708742824
 - FIELD TRIP - LÍ DO TO BỰ BẠN NÊN THAM GIA DSC-DUT: https://www.facebook.com/dscdut/posts/492592898812805
 - LỢI ÍCH TUYỆT VỜI KHI THAM GIA DSC-DUT, BẠN ĐÃ BIẾT HAY CHƯA?: https://www.facebook.com/dscdut/posts/492103838861711
-- 3 ĐIỀU CẤM KỴ CHO GIAO THỪA, MỒNG MỘT TẾT CỦA DÂN IT DSC_-DUT: https://www.facebook.com/dscdut/posts/477732203632208
+- 3 ĐIỀU CẤM KỴ CHO GIAO THỪA, MỒNG MỘT TẾT CỦA DÂN IT DSC\_-DUT: https://www.facebook.com/dscdut/posts/477732203632208
 - DSC-DTU: https://www.facebook.com/dscdut/posts/413517370053692
 - DSC-DTU: https://www.facebook.com/dscdut/posts/374882233917206
 - Có những thứ giá trị nhưng không hề lấp lánh DSC-DTU: https://www.facebook.com/dscdut/posts/295722405166523
