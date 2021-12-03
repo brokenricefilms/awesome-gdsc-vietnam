@@ -2,6 +2,9 @@
 
 **↓↓Table of Contents↓↓**
 
+<details>
+<summary>Click here to show.</summary>
+
 - [AWESOME DSC VIETNAM](#awesome-dsc-vietnam)
   - [Resource for DSC](#resource-for-dsc)
     - [Posts from DSC chapter in Vietnam](#posts-from-dsc-chapter-in-vietnam)
@@ -14,7 +17,7 @@
     - [URL shortener](#url-shortener)
     - [Bookban](#bookban)
     - ["Contact me"- Ứng dụng giải quyết việc làm “ONLINE”](#contact-me--ứng-dụng-giải-quyết-việc-làm-online)
-    - [REBO - Nền tảng thiết kế bài giảng trực tuyến lý tưởng dành cho giáo viên và học sinh](#rebo---nền-tảng-thiết-kế-bài-giảng-trực-tuyến-lý-tưởng-dành-cho-giáo-viên-và-học-sinh)
+    - [REBO Nền tảng thiết kế bài giảng trực tuyến lý tưởng dành cho giáo viên và học sinh](#rebo-nền-tảng-thiết-kế-bài-giảng-trực-tuyến-lý-tưởng-dành-cho-giáo-viên-và-học-sinh)
     - [The Shareapy mobile app](#the-shareapy-mobile-app)
   - [DSC Chapter in Vietnam](#dsc-chapter-in-vietnam)
     - [Da Nang University of Technology](#da-nang-university-of-technology)
@@ -25,15 +28,15 @@
     - [FPT University HCMC](#fpt-university-hcmc)
     - [Ton Duc Thang University](#ton-duc-thang-university)
     - [University of Information Technology VNU-HCM](#university-of-information-technology-vnu-hcm)
-    - [VNU HCM - University of Technology](#vnu-hcm---university-of-technology)
+    - [VNU HCM (University of Technology)](#vnu-hcm-university-of-technology)
     - [Vietnam National University](#vietnam-national-university)
     - [University of Greenwich Vietnam](#university-of-greenwich-vietnam)
     - [Hanoi University of Science &amp; Technology (HUST)](#hanoi-university-of-science--technology-hust)
-    - [VNU HCM - University of Science (Thu Duc)](#vnu-hcm---university-of-science-thu-duc)
-    - [VNU HCM - University of Science (Nguyen Van Cu)](#vnu-hcm---university-of-science-nguyen-van-cu)
-    - [VNU HCM - International University](#vnu-hcm---international-university)
+    - [VNU HCM (University of Science (Thu Duc))](#vnu-hcm-university-of-science-thu-duc)
+    - [VNU HCM (University of Science (Nguyen Van Cu))](#vnu-hcm-university-of-science-nguyen-van-cu)
+    - [VNU HCM (International University)](#vnu-hcm-international-university)
     - [VNUK Institute for Research and Executive Education, the University of Danang](#vnuk-institute-for-research-and-executive-education-the-university-of-danang)
-    - [VNU HCM - University of Industry](#vnu-hcm---university-of-industry)
+    - [VNU HCM (University of Industry)](#vnu-hcm-university-of-industry)
     - [University of Greenwich Vietnam Hanoi](#university-of-greenwich-vietnam-hanoi)
     - [Posts and Telecommunications Institute of Technology](#posts-and-telecommunications-institute-of-technology)
     - [Ho Chi Minh City University of Technology](#ho-chi-minh-city-university-of-technology)
@@ -49,6 +52,8 @@
   - [Contributing workflow](#contributing-workflow)
 
 ---
+
+</details>
 
 ## Resource for DSC
 
@@ -149,7 +154,7 @@
 - About(vietnamese): https://www.facebook.com/dsc.fptudn/posts/180360403735538
 - DSC chapter: [FPT University Danang](#FPT-University-Danang)
 
-### REBO - Nền tảng thiết kế bài giảng trực tuyến lý tưởng dành cho giáo viên và học sinh
+### REBO (Nền tảng thiết kế bài giảng trực tuyến lý tưởng dành cho giáo viên và học sinh)
 
 - About(vietnamese): https://www.facebook.com/dsc.fptudn/posts/179671193804459
 - DSC chapter: [FPT University Danang](#FPT-University-Danang)
@@ -215,7 +220,7 @@
 - Community: https://dsc.community.dev/university-of-information-technology-vnu-hcm/
 - Facebook: https://www.facebook.com/dsc.uit/
 
-### VNU HCM - University of Technology
+### VNU HCM (University of Technology)
 
 - Community: https://dsc.community.dev/vnu-hcm-university-of-technology/
 - Facebook: https://www.facebook.com/dsc.hcmut
@@ -239,17 +244,17 @@
 - Website: http://www.dsc-hust.club/
 - Email: dsc.hust.2020@gmail.com
 
-### VNU HCM - University of Science (Thu Duc)
+### VNU HCM (University of Science (Thu Duc))
 
 - Community: https://dsc.community.dev/vnu-hcm-university-of-science-thu-duc/
 - Facebook: https://www.facebook.com/dsc.hcmus
 
-### VNU HCM - University of Science (Nguyen Van Cu)
+### VNU HCM (University of Science (Nguyen Van Cu))
 
 - Community: https://dsc.community.dev/vnu-hcm-university-of-science-nguyen-van-cu/
 - Facebook: https://www.facebook.com/dsc.hcmus
 
-### VNU HCM - International University
+### VNU HCM (International University)
 
 - Facebook: https://www.facebook.com/dsc.hcmiu
 
@@ -257,7 +262,7 @@
 
 - Facebook: https://www.facebook.com/dscvnuk/
 
-### VNU HCM - University of Industry
+### VNU HCM (University of Industry)
 
 - Community: https://dsc.community.dev/vnu-hcm-university-of-industry/
 
