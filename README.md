@@ -300,7 +300,7 @@
 ### Industrial University of Ho Chi Minh City
 
 - Facebook: https://www.facebook.com/iuh.gdsc
-- Email: iuh.gdsc@gmail.com
+- Email: team@iuhgdsc.com
 - Twitter: https://twitter.com/iuhgdsc
 - Github: https://github.com/iuhgdsc
 - Instagram: https://www.instagram.com/iuh.gdsc/
