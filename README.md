@@ -1,59 +1,6 @@
+↖️ (Feeling lost? Use the GitHub TOC!)
+
 # AWESOME DSC VIETNAM
-
-**↓↓Table of Contents↓↓**
-
-<details>
-<summary>Click here to show.</summary>
-
-- [AWESOME DSC VIETNAM](#awesome-dsc-vietnam)
-  - [Resource for DSC](#resource-for-dsc)
-    - [Posts from DSC chapter in Vietnam](#posts-from-dsc-chapter-in-vietnam)
-  - [Project DSC in Vietnam](#project-dsc-in-vietnam)
-    - [ProVo](#provo)
-    - [beebee.travel](#beebeetravel)
-    - [uniGO](#unigo)
-    - [Google DSC Loading spinner](#google-dsc-loading-spinner)
-    - [Smart Garden System API](#smart-garden-system-api)
-    - [URL shortener](#url-shortener)
-    - [Bookban](#bookban)
-    - ["Contact me"- Ứng dụng giải quyết việc làm “ONLINE”](#contact-me--ứng-dụng-giải-quyết-việc-làm-online)
-    - [REBO Nền tảng thiết kế bài giảng trực tuyến lý tưởng dành cho giáo viên và học sinh](#rebo-nền-tảng-thiết-kế-bài-giảng-trực-tuyến-lý-tưởng-dành-cho-giáo-viên-và-học-sinh)
-    - [The Shareapy mobile app](#the-shareapy-mobile-app)
-  - [DSC Chapter in Vietnam](#dsc-chapter-in-vietnam)
-    - [Da Nang University of Technology](#da-nang-university-of-technology)
-    - [Duy Tan University](#duy-tan-university)
-    - [Hoa Sen University](#hoa-sen-university)
-    - [Saigon University](#saigon-university)
-    - [FPT University Danang](#fpt-university-danang)
-    - [FPT University HCMC](#fpt-university-hcmc)
-    - [Ton Duc Thang University](#ton-duc-thang-university)
-    - [University of Information Technology VNU-HCM](#university-of-information-technology-vnu-hcm)
-    - [VNU HCM (University of Technology)](#vnu-hcm-university-of-technology)
-    - [Vietnam National University](#vietnam-national-university)
-    - [University of Greenwich Vietnam](#university-of-greenwich-vietnam)
-    - [Hanoi University of Science &amp; Technology (HUST)](#hanoi-university-of-science--technology-hust)
-    - [VNU HCM (University of Science (Thu Duc))](#vnu-hcm-university-of-science-thu-duc)
-    - [VNU HCM (University of Science (Nguyen Van Cu))](#vnu-hcm-university-of-science-nguyen-van-cu)
-    - [VNU HCM (International University)](#vnu-hcm-international-university)
-    - [VNUK Institute for Research and Executive Education, the University of Danang](#vnuk-institute-for-research-and-executive-education-the-university-of-danang)
-    - [VNU HCM (University of Industry)](#vnu-hcm-university-of-industry)
-    - [University of Greenwich Vietnam Hanoi](#university-of-greenwich-vietnam-hanoi)
-    - [Posts and Telecommunications Institute of Technology](#posts-and-telecommunications-institute-of-technology)
-    - [Ho Chi Minh City University of Technology](#ho-chi-minh-city-university-of-technology)
-    - [Eastern International University](#eastern-international-university)
-    - [Foreign Trade University](#foreign-trade-university)
-    - [HCMC University of Technology and Education](#hcmc-university-of-technology-and-education)
-    - [Hanoi University](#hanoi-university)
-    - [Hanoi University of Mining and Geology](#hanoi-university-of-mining-and-geology)
-    - [Industrial University of Ho Chi Minh City](#industrial-university-of-ho-chi-minh-city)
-    - [Vietnam Academy of Cryptography Techniques](#vietnam-academy-of-cryptography-techniques)
-    - [University of Greenwich Vietnam (Can Tho)](#university-of-greenwich-vietnam-can-tho)
-    - [University of Economics and Law](#university-of-economics-and-law)
-  - [Contributing workflow](#contributing-workflow)
-
----
-
-</details>
 
 ## Resource for DSC
 
@@ -65,10 +12,10 @@
 - Free resources for GDSC Leads: https://docs.google.com/document/d/1D4tJDb-kWRqPMreBfgbMkUc9eHwM4bFeocFvWs8rJf8/
 - Virtual DevSpace - Organizer Guide: https://goo.gle/virtual-devspace
 - Open-source illustration: https://2.flexiple.com/scale/all-illustrations
-- Github student pack: https://education.github.com/pack
+- GitHub student pack: https://education.github.com/pack
 - Awesome list: https://github.com/topics/awesome-list
 
-### Posts from DSC chapter in Vietnam
+## Posts from the DSC chapter in Vietnam
 
 - Bộ mấy làm việc của nhà DSC-DUT: https://www.facebook.com/dscdut/posts/551884899550271
 - 4 lầm tưởng tai hại khiến bạn bỏ lỡ cơ hội trở thành thành viên của [DSC-DUT](#da-nang-university-of-technology)!: https://www.facebook.com/dscdut/posts/493292708742824
@@ -171,7 +118,7 @@
 
 - Community: https://dsc.community.dev/da-nang-university-of-technology/
 - Website: https://google.dscdut.com/
-- Github: https://github.com/dscdut
+- GitHub: https://github.com/dscdut
 - Facebook: https://www.facebook.com/dscdut
 - YouTube: https://www.youtube.com/channel/UCh5G4Fgl_WcOBB2LF73x3Ww/featured
 - Linkedin: https://www.linkedin.com/company/dscdut/
@@ -190,7 +137,7 @@
 - Community: https://dsc.community.dev/hoa-sen-university/
 - Facebook: https://www.facebook.com/gdsc.hsu/
 - YouTube: https://www.youtube.com/channel/UCcbTBRzIfnE-EhixqOWJCtg
-- Github: https://github.com/DSC-HSU
+- GitHub: https://github.com/DSC-HSU
 
 ### Saigon University
 
@@ -207,13 +154,13 @@
 
 - Community: https://dsc.community.dev/fpt-university-hcmc/
 - Facebook: https://www.facebook.com/dsc.fptu.hcmc
-- Github: https://github.com/DSC-FPTU-HCMC
+- GitHub: https://github.com/DSC-FPTU-HCMC
 
 ### Ton Duc Thang University
 
 - Community: https://dsc.community.dev/ton-duc-thang-university/
 - Facebook: https://www.facebook.com/dsc.tdtu
-- Github: https://github.com/DSC-Ton-Duc-Thang-University
+- GitHub: https://github.com/DSC-Ton-Duc-Thang-University
 
 ### University of Information Technology VNU-HCM
 
@@ -224,7 +171,7 @@
 
 - Community: https://dsc.community.dev/vnu-hcm-university-of-technology/
 - Facebook: https://www.facebook.com/dsc.hcmut
-- Github: https://github.com/dsc-hcmut
+- GitHub: https://github.com/dsc-hcmut
 
 ### Vietnam National University
 
@@ -289,7 +236,7 @@
 ### HCMC University of Technology and Education
 
 - Facebook: https://www.facebook.com/gdsc.hcmute
-- Github: https://github.com/DSC-HCMUTE
+- GitHub: https://github.com/DSC-HCMUTE
 - Email: dsc.hcmute@gmail.com
 
 ### Hanoi University
@@ -307,7 +254,7 @@
 - Facebook: https://www.facebook.com/iuh.gdsc
 - Email: team@iuhgdsc.com
 - Twitter: https://twitter.com/iuhgdsc
-- Github: https://github.com/iuhgdsc
+- GitHub: https://github.com/iuhgdsc
 - Instagram: https://www.instagram.com/iuh.gdsc/
 - Youtube: https://www.youtube.com/channel/UCeDvhkh14Y1QtNRfo5nhRbg
 - Community: https://iuhgdsc.page.link/community
