@@ -1,11 +1,12 @@
 ↖️ (Feeling lost? Use the GitHub TOC!)
 
-# AWESOME DSC VIETNAM
+# AWESOME GDSC VIETNAM
 
 Looking for a maintainer: thuanowa@gmail.com
+
 > I no longer in GDSC so kinda hard to update the newest stuff
 
-## Resource for DSC
+## Resource for GDSC
 
 - DSC docs:
   - https://developers.google.com/community/dsc/leads
@@ -18,7 +19,7 @@ Looking for a maintainer: thuanowa@gmail.com
 - GitHub student pack: https://education.github.com/pack
 - Awesome list: https://github.com/topics/awesome-list
 
-## Posts from the DSC chapter in Vietnam
+## Posts from the GDSC chapter in Vietnam
 
 - Bộ mấy làm việc của nhà DSC-DUT: https://www.facebook.com/dscdut/posts/551884899550271
 - 4 lầm tưởng tai hại khiến bạn bỏ lỡ cơ hội trở thành thành viên của [DSC-DUT](#da-nang-university-of-technology)!: https://www.facebook.com/dscdut/posts/493292708742824
@@ -50,7 +51,7 @@ Looking for a maintainer: thuanowa@gmail.com
 - About: ProVo is an ecosystem providing a IELTS Writing Support service and an mobile app with a collective database of Advanced Vocab and Synonyms.
 - Website: <https://provo.dscdut.com/>
 - Download app (Android): <https://play.google.com/store/apps/details?id=com.huy3999.provo>
-- DSC chapter: [Da Nang University of Technology](#da-nang-university-of-technology)
+- GDSC chapter: [Da Nang University of Technology](#da-nang-university-of-technology)
 
 ### beebee.travel
 
@@ -58,7 +59,7 @@ Looking for a maintainer: thuanowa@gmail.com
 
 - About(vietnamese website): <https://beebee.travel/>
 - Try app: <https://app.beebee.travel/>
-- DSC chapter: [Da Nang University of Technology](#da-nang-university-of-technology)
+- GDSC chapter: [Da Nang University of Technology](#da-nang-university-of-technology)
 
 ### uniGO
 
@@ -66,9 +67,9 @@ Looking for a maintainer: thuanowa@gmail.com
 
 - About: Danang University of Technology virtual interactive map, Designed by Developer Student Clubs with basic algorithms and popular technology platforms, uniGO makes it easier for users to locate classrooms, buildings, functional departments… as well as to look up for detailed information on these locations.
 - Website: <https://unigo.pro/>
-- DSC chapter: [Da Nang University of Technology](#da-nang-university-of-technology)
+- GDSC chapter: [Da Nang University of Technology](#da-nang-university-of-technology)
 
-### Google DSC Loading spinner
+### Google GDSC Loading spinner
 
 <div>
 <img src="./img/googler-loader.gif" alt="" width="25%">
@@ -78,7 +79,7 @@ Looking for a maintainer: thuanowa@gmail.com
 
 - About: A Loading spinner for the Google Developer student clubs.
 - Source Code: <https://github.com/dscdut/loading.vndsc.com>
-- DSC chapter: [Da Nang University of Technology](#da-nang-university-of-technology)
+- GDSC chapter: [Da Nang University of Technology](#da-nang-university-of-technology)
 
 ### Smart Garden System API
 
@@ -86,36 +87,36 @@ Looking for a maintainer: thuanowa@gmail.com
 
 - About: Provides some API for monitoring and controlling a garden model (small) using Arduino + Raspberry Pi
 - Source code: https://github.com/DSC-HSU/SmartGarden#smart-garden-system-api
-- DSC chapter: [Hoa Sen University](#hoa-sen-university)
+- GDSC chapter: [Hoa Sen University](#hoa-sen-university)
 
 ### URL shortener
 
 - Website: https://url.dscdut.com/
-- DSC chapter: [Da Nang University of Technology](#da-nang-university-of-technology)
+- GDSC chapter: [Da Nang University of Technology](#da-nang-university-of-technology)
 - Source code: https://github.com/dscdut/url.dscdut.com
 
 ### Bookban
 
 - About(vietnamese): https://www.facebook.com/dsc.fptudn/posts/181046613666917
-- DSC chapter: [FPT University Danang](#FPT-University-Danang)
+- GDSC chapter: [FPT University Danang](#FPT-University-Danang)
 
 ### "Contact me"- Ứng dụng giải quyết việc làm “ONLINE”
 
 - About(vietnamese): https://www.facebook.com/dsc.fptudn/posts/180360403735538
-- DSC chapter: [FPT University Danang](#FPT-University-Danang)
+- GDSC chapter: [FPT University Danang](#FPT-University-Danang)
 
 ### REBO (Nền tảng thiết kế bài giảng trực tuyến lý tưởng dành cho giáo viên và học sinh)
 
 - About(vietnamese): https://www.facebook.com/dsc.fptudn/posts/179671193804459
-- DSC chapter: [FPT University Danang](#FPT-University-Danang)
+- GDSC chapter: [FPT University Danang](#FPT-University-Danang)
 
 ### The Shareapy mobile app
 
 - About: Vo Ngoc Khanh Linh, Tran Lam Bao Khang, Nguyen Dang Huy, and Nguyen Thanh Nhan built Shareapy: a digitized support group app created with Android that helps bring people together who share similar problems regardless of their age, gender, religion, financial status, etc. After conducting an extremely rigorous user testing phase, this team had the chance to see all that TensorFlow and Firebase could do.
 - Video: https://www.youtube.com/watch?v=63RTBxRyFX8&t=3557s
-- DSC chapter: [Ho Chi Minh City University of Technology](#ho-chi-minh-city-university-of-technology)
+- GDSC chapter: [Ho Chi Minh City University of Technology](#ho-chi-minh-city-university-of-technology)
 
-## DSC Chapter in Vietnam
+## GDSC Chapter in Vietnam
 
 ### Da Nang University of Technology
 
@@ -275,16 +276,3 @@ Looking for a maintainer: thuanowa@gmail.com
 
 - Facebook: https://www.facebook.com/gdsc.uel
 - Email: gdsc.uel@gmail.com
-
-## Contributing workflow
-
-Here’s how we suggest you go about proposing a change to this project:
-
-1. [Fork this project][fork] to your account.
-2. [Create a branch][branch] for the change you intend to make.
-3. Make your changes to your fork.
-4. [Send a pull request][pr] from your fork’s branch to our `main` branch.
-
-[fork]: https://help.github.com/articles/fork-a-repo/
-[branch]: https://help.github.com/articles/creating-and-deleting-branches-within-your-repository
-[pr]: https://help.github.com/articles/using-pull-requests/
