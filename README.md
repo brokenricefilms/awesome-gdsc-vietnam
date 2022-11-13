@@ -2,6 +2,9 @@
 
 # AWESOME DSC VIETNAM
 
+Looking for a maintainer: thuanowa@gmail.com
+> I no longer in GDSC so kinda hard to update the newest stuff
+
 ## Resource for DSC
 
 - DSC docs:
