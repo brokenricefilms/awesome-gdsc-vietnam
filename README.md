@@ -2,7 +2,7 @@
 
 # AWESOME GDSC VIETNAM
 
-Looking for a maintainer: ongeditvideo@gmail.com
+Looking for a maintainer: thuantanphamfilms@gmail.com
 
 > I no longer in GDSC so kinda hard to update the newest stuff
 
